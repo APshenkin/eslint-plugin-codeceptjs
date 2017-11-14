@@ -1,6 +1,6 @@
 {
-  "name": "eslint-plugin-codeceptjs",
-  "version": "0.0.1",
+  "name": "eslint-plugin-codeceptjs2",
+  "version": "0.0.2",
   "description": "custom rules for CodeceptJs",
   "keywords": [
     "eslint",
@@ -8,7 +8,11 @@
     "eslint-plugin",
     "codeceptJS"
   ],
-  "author": "Andrey Pshenkin",
+  "author": "@kronoslive",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/APshenkin/eslint-plugin-codeceptjs"
+  },
   "main": "lib/index.js",
   "scripts": {
     "test": "mocha tests --recursive"
