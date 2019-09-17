@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-codeceptjs2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "custom rules for CodeceptJs",
   "keywords": [
     "eslint",
